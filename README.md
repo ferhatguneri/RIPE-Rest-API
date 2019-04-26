@@ -1,6 +1,8 @@
 # RIPE-Rest-API
 Insert Person, Delete Person, Insert or Update Inetnum, Delete Inetnum
 
+# Functions
+
 InsertPerson(PersonName,PersonAddress,PersonPhone,PersonEmail,PersonMaintaner)
 
 DeletePerson(nic_hdl)
